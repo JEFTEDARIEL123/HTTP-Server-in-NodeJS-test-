@@ -18,6 +18,6 @@ var server = app.listen(process.env.PORT, function () {
     console.log('# Insert ur files in ./www/ #'.yellow)
     console.log('#############################'.yellow)
     console.log(' ')
-    console.log('Addres And Port:'.green, process.env.ADDRESS, '@'.green, process.env.PORT)
+    console.log('Address And Port:'.green, process.env.ADDRESS, '@'.green, process.env.PORT)
     console.log(' ')
 })
