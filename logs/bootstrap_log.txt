@@ -1,0 +1,131 @@
+
+
+[2021-11-08 19:27:49] Startup - updater built Oct 13 2021 12:49:10
+[2021-11-08 19:27:50] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2021-11-08 19:27:50] Using the following download hosts for Public, Realm steamglobal
+[2021-11-08 19:27:50] 1. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2021-11-08 19:27:50] Verifying installation...
+[2021-11-08 19:27:50] Unable to read and verify install manifest E:\HTMLJS\package\steam_client_win32.installed
+[2021-11-08 19:27:50] Verification complete
+[2021-11-08 19:27:50] Downloading Update...
+[2021-11-08 19:27:50] Checking for available update...
+[2021-11-08 19:27:50] Downloading manifest: http://media.steampowered.com/client/steam_client_win32
+[2021-11-08 19:27:50] Downloaded new manifest: /client/steam_client_win32 version 1634158817, installed version 0, existing pending version 0
+[2021-11-08 19:27:50] Package file tenfoot_misc_all.zip.1ca83d76835b4613170f5cead778b176b11f2b0c missing or incorrect size
+[2021-11-08 19:27:50] Package file tenfoot_dicts_all.zip.33245b7d523f68418283e93b0572508fa127ee8f missing or incorrect size
+[2021-11-08 19:27:50] Package file tenfoot_fonts_all.zip.vz.7673e4cd32b6752bc621d8bc1a7118a9af19b64a_12077027 missing or incorrect size
+[2021-11-08 19:27:50] Package file tenfoot_ambientsounds_all.zip.89b80bcfdd11b2b99257ddbbdc374e2df54e2738 missing or incorrect size
+[2021-11-08 19:27:50] Package file tenfoot_sounds_all.zip.vz.ffef2b2fc386819a842ea79484b966a937c2ca7e_1209792 missing or incorrect size
+[2021-11-08 19:27:50] Package file tenfoot_images_all.zip.vz.3068f03284bffd434b35a595a4075a61908f0f90_32858345 missing or incorrect size
+[2021-11-08 19:27:50] Package file tenfoot_all.zip.vz.766fa370068ba76e9e5f5fe64100132dae54cfac_2367171 missing or incorrect size
+[2021-11-08 19:27:50] Package file friendsui_all.zip.vz.b51d53ec9d5f5d21c05b4991612e25f29f47d064_2815889 missing or incorrect size
+[2021-11-08 19:27:50] Package file steamui_websrc_all.zip.vz.17095d0b712cd2425d5d569cdd59123f2d7e2333_2868885 missing or incorrect size
+[2021-11-08 19:27:50] Package file resources_misc_all.zip.vz.4a1fa88d21b005b67a41a9a0fc6044ae1fa46791_2225211 missing or incorrect size
+[2021-11-08 19:27:50] Package file resources_music_all.zip.vz.7a62e15083d4a65668f0d1fa58ad8c1b99fb5ace_3708050 missing or incorrect size
+[2021-11-08 19:27:50] Package file resources_hidpi_all.zip.vz.a6ec169f53f3e3efaebc05c1a68c1aeb567c5847_57918 missing or incorrect size
+[2021-11-08 19:27:50] Package file resources_all.zip.vz.37537925c28088bb9f01b4270192b3c89e4aca5a_1313882 missing or incorrect size
+[2021-11-08 19:27:50] Package file strings_en_all.zip.16f7ca18236c2f5d706604b898c8226599434706 missing or incorrect size
+[2021-11-08 19:27:50] Package file strings_all.zip.vz.0cf0c2679c88e7389ab4cf6e8903e17e2fd51194_1948366 missing or incorrect size
+[2021-11-08 19:27:50] Package file public_all.zip.vz.d2b58d213cb87ddcc7ed67508c156ea10b52d0da_4885572 missing or incorrect size
+[2021-11-08 19:27:50] Package file bins_codecs_win32.zip.vz.ee73c9d531f2620732216ff6638071daf8aeb830_3061573 missing or incorrect size
+[2021-11-08 19:27:50] Package file bins_misc_win32.zip.vz.9591e1c64e39fcc897f4b6cadd1ce777988a832f_12935017 missing or incorrect size
+[2021-11-08 19:27:50] Package file bins_cef_win32_win10-64.zip.vz.1c370553f735a4e60eb6722d8f4d17ff23c5b56c_59824462 missing or incorrect size
+[2021-11-08 19:27:50] Package file bins_cef_win32_win7.zip.vz.6da7b315a81209e08881812f69138aa5b96ff901_57786147 missing or incorrect size
+[2021-11-08 19:27:50] Package file bins_webhelpers_win32_win10-64.zip.vz.9458b0c3f5ac266516ddb29d428aa6572563e9cb_2480662 missing or incorrect size
+[2021-11-08 19:27:50] Package file bins_webhelpers_win32_win7.zip.vz.eccb1c339958e87e06249947e6d0b342abc3e75c_2186634 missing or incorrect size
+[2021-11-08 19:27:50] Package file bins_win32.zip.vz.ab04b806eb5fa7f7027f6aa0e0c8797926cae058_28097275 missing or incorrect size
+[2021-11-08 19:27:50] Package file steam_win32_steamrow.zip.vz.c25d292e5b28cfcd6fbc41b37f5e0f0f8b4c4092_1744509 missing or incorrect size
+[2021-11-08 19:27:50] Add pending download: http://media.steampowered.com/client/tenfoot_misc_all.zip.1ca83d76835b4613170f5cead778b176b11f2b0c
+[2021-11-08 19:27:50] Add pending download: http://media.steampowered.com/client/tenfoot_dicts_all.zip.33245b7d523f68418283e93b0572508fa127ee8f
+[2021-11-08 19:27:50] Add pending download: http://media.steampowered.com/client/tenfoot_fonts_all.zip.vz.7673e4cd32b6752bc621d8bc1a7118a9af19b64a_12077027
+[2021-11-08 19:27:50] Add pending download: http://media.steampowered.com/client/tenfoot_ambientsounds_all.zip.89b80bcfdd11b2b99257ddbbdc374e2df54e2738
+[2021-11-08 19:27:50] Add pending download: http://media.steampowered.com/client/tenfoot_sounds_all.zip.vz.ffef2b2fc386819a842ea79484b966a937c2ca7e_1209792
+[2021-11-08 19:27:50] Add pending download: http://media.steampowered.com/client/tenfoot_images_all.zip.vz.3068f03284bffd434b35a595a4075a61908f0f90_32858345
+[2021-11-08 19:27:50] Add pending download: http://media.steampowered.com/client/tenfoot_all.zip.vz.766fa370068ba76e9e5f5fe64100132dae54cfac_2367171
+[2021-11-08 19:27:50] Add pending download: http://media.steampowered.com/client/friendsui_all.zip.vz.b51d53ec9d5f5d21c05b4991612e25f29f47d064_2815889
+[2021-11-08 19:27:50] Add pending download: http://media.steampowered.com/client/steamui_websrc_all.zip.vz.17095d0b712cd2425d5d569cdd59123f2d7e2333_2868885
+[2021-11-08 19:27:50] Add pending download: http://media.steampowered.com/client/resources_misc_all.zip.vz.4a1fa88d21b005b67a41a9a0fc6044ae1fa46791_2225211
+[2021-11-08 19:27:50] Add pending download: http://media.steampowered.com/client/resources_music_all.zip.vz.7a62e15083d4a65668f0d1fa58ad8c1b99fb5ace_3708050
+[2021-11-08 19:27:50] Add pending download: http://media.steampowered.com/client/resources_hidpi_all.zip.vz.a6ec169f53f3e3efaebc05c1a68c1aeb567c5847_57918
+[2021-11-08 19:27:50] Add pending download: http://media.steampowered.com/client/resources_all.zip.vz.37537925c28088bb9f01b4270192b3c89e4aca5a_1313882
+[2021-11-08 19:27:50] Add pending download: http://media.steampowered.com/client/strings_en_all.zip.16f7ca18236c2f5d706604b898c8226599434706
+[2021-11-08 19:27:50] Add pending download: http://media.steampowered.com/client/strings_all.zip.vz.0cf0c2679c88e7389ab4cf6e8903e17e2fd51194_1948366
+[2021-11-08 19:27:50] Add pending download: http://media.steampowered.com/client/public_all.zip.vz.d2b58d213cb87ddcc7ed67508c156ea10b52d0da_4885572
+[2021-11-08 19:27:50] Add pending download: http://media.steampowered.com/client/bins_codecs_win32.zip.vz.ee73c9d531f2620732216ff6638071daf8aeb830_3061573
+[2021-11-08 19:27:50] Add pending download: http://media.steampowered.com/client/bins_misc_win32.zip.vz.9591e1c64e39fcc897f4b6cadd1ce777988a832f_12935017
+[2021-11-08 19:27:50] Add pending download: http://media.steampowered.com/client/bins_cef_win32_win10-64.zip.vz.1c370553f735a4e60eb6722d8f4d17ff23c5b56c_59824462
+[2021-11-08 19:27:50] Add pending download: http://media.steampowered.com/client/bins_cef_win32_win7.zip.vz.6da7b315a81209e08881812f69138aa5b96ff901_57786147
+[2021-11-08 19:27:50] Add pending download: http://media.steampowered.com/client/bins_webhelpers_win32_win10-64.zip.vz.9458b0c3f5ac266516ddb29d428aa6572563e9cb_2480662
+[2021-11-08 19:27:50] Add pending download: http://media.steampowered.com/client/bins_webhelpers_win32_win7.zip.vz.eccb1c339958e87e06249947e6d0b342abc3e75c_2186634
+[2021-11-08 19:27:50] Add pending download: http://media.steampowered.com/client/bins_win32.zip.vz.ab04b806eb5fa7f7027f6aa0e0c8797926cae058_28097275
+[2021-11-08 19:27:50] Add pending download: http://media.steampowered.com/client/steam_win32_steamrow.zip.vz.c25d292e5b28cfcd6fbc41b37f5e0f0f8b4c4092_1744509
+[2021-11-08 19:27:51] Downloading update (11,288 of 263,664 KB)...
+[2021-11-08 19:27:51] Downloading update (14,913 of 263,664 KB)...
+[2021-11-08 19:27:51] Downloading update (18,344 of 263,664 KB)...
+[2021-11-08 19:27:51] Downloading update (21,547 of 263,664 KB)...
+[2021-11-08 19:27:51] Shutdown
+[2021-11-08 19:27:52] Saving metrics to disk (E:\HTMLJS\package\steam_client_metrics.bin)
+
+
+[2021-11-08 19:28:10] Startup - updater built Oct 13 2021 12:49:10
+[2021-11-08 19:28:10] Loading cached metrics from disk (E:\HTMLJS\package\steam_client_metrics.bin)
+[2021-11-08 19:28:10] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2021-11-08 19:28:10] Using the following download hosts for Public, Realm steamglobal
+[2021-11-08 19:28:10] 1. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2021-11-08 19:28:10] Verifying installation...
+[2021-11-08 19:28:10] Unable to read and verify install manifest E:\HTMLJS\package\steam_client_win32.installed
+[2021-11-08 19:28:10] Verification complete
+[2021-11-08 19:28:10] Downloading Update...
+[2021-11-08 19:28:10] Checking for available update...
+[2021-11-08 19:28:10] Downloading manifest: http://media.steampowered.com/client/steam_client_win32
+[2021-11-08 19:28:10] Downloaded new manifest: /client/steam_client_win32 version 1634158817, installed version 0, existing pending version 0
+[2021-11-08 19:28:10] Package file tenfoot_misc_all.zip.1ca83d76835b4613170f5cead778b176b11f2b0c missing or incorrect size
+[2021-11-08 19:28:10] Package file tenfoot_dicts_all.zip.33245b7d523f68418283e93b0572508fa127ee8f missing or incorrect size
+[2021-11-08 19:28:10] Package file tenfoot_fonts_all.zip.vz.7673e4cd32b6752bc621d8bc1a7118a9af19b64a_12077027 missing or incorrect size
+[2021-11-08 19:28:10] Package file tenfoot_ambientsounds_all.zip.89b80bcfdd11b2b99257ddbbdc374e2df54e2738 missing or incorrect size
+[2021-11-08 19:28:10] Package file tenfoot_sounds_all.zip.vz.ffef2b2fc386819a842ea79484b966a937c2ca7e_1209792 missing or incorrect size
+[2021-11-08 19:28:10] Package file tenfoot_images_all.zip.vz.3068f03284bffd434b35a595a4075a61908f0f90_32858345 missing or incorrect size
+[2021-11-08 19:28:10] Package file tenfoot_all.zip.vz.766fa370068ba76e9e5f5fe64100132dae54cfac_2367171 missing or incorrect size
+[2021-11-08 19:28:10] Package file friendsui_all.zip.vz.b51d53ec9d5f5d21c05b4991612e25f29f47d064_2815889 missing or incorrect size
+[2021-11-08 19:28:10] Package file steamui_websrc_all.zip.vz.17095d0b712cd2425d5d569cdd59123f2d7e2333_2868885 missing or incorrect size
+[2021-11-08 19:28:10] Package file resources_misc_all.zip.vz.4a1fa88d21b005b67a41a9a0fc6044ae1fa46791_2225211 missing or incorrect size
+[2021-11-08 19:28:10] Package file resources_music_all.zip.vz.7a62e15083d4a65668f0d1fa58ad8c1b99fb5ace_3708050 missing or incorrect size
+[2021-11-08 19:28:10] Package file resources_hidpi_all.zip.vz.a6ec169f53f3e3efaebc05c1a68c1aeb567c5847_57918 missing or incorrect size
+[2021-11-08 19:28:10] Package file resources_all.zip.vz.37537925c28088bb9f01b4270192b3c89e4aca5a_1313882 missing or incorrect size
+[2021-11-08 19:28:10] Package file strings_en_all.zip.16f7ca18236c2f5d706604b898c8226599434706 missing or incorrect size
+[2021-11-08 19:28:10] Package file strings_all.zip.vz.0cf0c2679c88e7389ab4cf6e8903e17e2fd51194_1948366 missing or incorrect size
+[2021-11-08 19:28:10] Package file public_all.zip.vz.d2b58d213cb87ddcc7ed67508c156ea10b52d0da_4885572 missing or incorrect size
+[2021-11-08 19:28:10] Package file bins_codecs_win32.zip.vz.ee73c9d531f2620732216ff6638071daf8aeb830_3061573 missing or incorrect size
+[2021-11-08 19:28:10] Package file bins_misc_win32.zip.vz.9591e1c64e39fcc897f4b6cadd1ce777988a832f_12935017 missing or incorrect size
+[2021-11-08 19:28:10] Package file bins_cef_win32_win10-64.zip.vz.1c370553f735a4e60eb6722d8f4d17ff23c5b56c_59824462 missing or incorrect size
+[2021-11-08 19:28:10] Package file bins_webhelpers_win32_win10-64.zip.vz.9458b0c3f5ac266516ddb29d428aa6572563e9cb_2480662 missing or incorrect size
+[2021-11-08 19:28:10] Package file bins_win32.zip.vz.ab04b806eb5fa7f7027f6aa0e0c8797926cae058_28097275 missing or incorrect size
+[2021-11-08 19:28:10] Package file steam_win32_steamrow.zip.vz.c25d292e5b28cfcd6fbc41b37f5e0f0f8b4c4092_1744509 missing or incorrect size
+[2021-11-08 19:28:10] Add pending download: http://media.steampowered.com/client/tenfoot_misc_all.zip.1ca83d76835b4613170f5cead778b176b11f2b0c
+[2021-11-08 19:28:10] Add pending download: http://media.steampowered.com/client/tenfoot_dicts_all.zip.33245b7d523f68418283e93b0572508fa127ee8f
+[2021-11-08 19:28:10] Add pending download: http://media.steampowered.com/client/tenfoot_fonts_all.zip.vz.7673e4cd32b6752bc621d8bc1a7118a9af19b64a_12077027
+[2021-11-08 19:28:10] Add pending download: http://media.steampowered.com/client/tenfoot_ambientsounds_all.zip.89b80bcfdd11b2b99257ddbbdc374e2df54e2738
+[2021-11-08 19:28:10] Add pending download: http://media.steampowered.com/client/tenfoot_sounds_all.zip.vz.ffef2b2fc386819a842ea79484b966a937c2ca7e_1209792
+[2021-11-08 19:28:10] Add pending download: http://media.steampowered.com/client/tenfoot_images_all.zip.vz.3068f03284bffd434b35a595a4075a61908f0f90_32858345
+[2021-11-08 19:28:10] Add pending download: http://media.steampowered.com/client/tenfoot_all.zip.vz.766fa370068ba76e9e5f5fe64100132dae54cfac_2367171
+[2021-11-08 19:28:10] Add pending download: http://media.steampowered.com/client/friendsui_all.zip.vz.b51d53ec9d5f5d21c05b4991612e25f29f47d064_2815889
+[2021-11-08 19:28:10] Add pending download: http://media.steampowered.com/client/steamui_websrc_all.zip.vz.17095d0b712cd2425d5d569cdd59123f2d7e2333_2868885
+[2021-11-08 19:28:10] Add pending download: http://media.steampowered.com/client/resources_misc_all.zip.vz.4a1fa88d21b005b67a41a9a0fc6044ae1fa46791_2225211
+[2021-11-08 19:28:10] Add pending download: http://media.steampowered.com/client/resources_music_all.zip.vz.7a62e15083d4a65668f0d1fa58ad8c1b99fb5ace_3708050
+[2021-11-08 19:28:10] Add pending download: http://media.steampowered.com/client/resources_hidpi_all.zip.vz.a6ec169f53f3e3efaebc05c1a68c1aeb567c5847_57918
+[2021-11-08 19:28:10] Add pending download: http://media.steampowered.com/client/resources_all.zip.vz.37537925c28088bb9f01b4270192b3c89e4aca5a_1313882
+[2021-11-08 19:28:10] Add pending download: http://media.steampowered.com/client/strings_en_all.zip.16f7ca18236c2f5d706604b898c8226599434706
+[2021-11-08 19:28:10] Add pending download: http://media.steampowered.com/client/strings_all.zip.vz.0cf0c2679c88e7389ab4cf6e8903e17e2fd51194_1948366
+[2021-11-08 19:28:10] Add pending download: http://media.steampowered.com/client/public_all.zip.vz.d2b58d213cb87ddcc7ed67508c156ea10b52d0da_4885572
+[2021-11-08 19:28:11] Add pending download: http://media.steampowered.com/client/bins_codecs_win32.zip.vz.ee73c9d531f2620732216ff6638071daf8aeb830_3061573
+[2021-11-08 19:28:11] Add pending download: http://media.steampowered.com/client/bins_misc_win32.zip.vz.9591e1c64e39fcc897f4b6cadd1ce777988a832f_12935017
+[2021-11-08 19:28:11] Add pending download: http://media.steampowered.com/client/bins_cef_win32_win10-64.zip.vz.1c370553f735a4e60eb6722d8f4d17ff23c5b56c_59824462
+[2021-11-08 19:28:11] Add pending download: http://media.steampowered.com/client/bins_webhelpers_win32_win10-64.zip.vz.9458b0c3f5ac266516ddb29d428aa6572563e9cb_2480662
+[2021-11-08 19:28:11] Add pending download: http://media.steampowered.com/client/bins_win32.zip.vz.ab04b806eb5fa7f7027f6aa0e0c8797926cae058_28097275
+[2021-11-08 19:28:11] Add pending download: http://media.steampowered.com/client/steam_win32_steamrow.zip.vz.c25d292e5b28cfcd6fbc41b37f5e0f0f8b4c4092_1744509
+[2021-11-08 19:28:11] Downloading update (11,177 of 205,097 KB)...
+[2021-11-08 19:28:11] Downloading update (15,691 of 205,097 KB)...
+[2021-11-08 19:28:11] Downloading update (16,847 of 205,097 KB)...
+[2021-11-08 19:28:11] Downloading update (17,890 of 205,097 KB)...
+[2021-11-08 19:28:12] Shutdown
+[2021-11-08 19:28:12] Saving metrics to disk (E:\HTMLJS\package\steam_client_metrics.bin)
