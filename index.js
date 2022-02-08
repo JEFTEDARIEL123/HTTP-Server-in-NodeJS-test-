@@ -18,8 +18,6 @@ var server = app.listen(process.env.PORT, function () {
     var host = server.address().address
     var port = server.address().port
 
-    app.use(morgan('common'))
-
     console.log(' ')
     console.log('#############################'.yellow)
     console.log('#     WebServer Online!     #'.yellow)
@@ -29,6 +27,7 @@ var server = app.listen(process.env.PORT, function () {
     console.log('Server running on:'.green, process.env.ADDRESS, '@'.green, process.env.PORT)
     console.log(' ')
 
-    
+    app.use(morgan(':date[clf] '.blue + 'ERROR '.red + ':status'.red + ' user/' +  '[' + ':remote-addr' + '] ' + 'Can not' + ' :method' + ' :url'))
+
     
 })
