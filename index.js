@@ -13,7 +13,7 @@ if (!fs.existsSync(process.env.FILES)){
     fs.mkdirSync(process.env.FILES, { recursive: true });
 }
 
-app.use(express.static('process.env.FILES'));
+app.use(express.static('src'));
    
    console.log('Loading web files from /', process.env.FILES, "/")
 
