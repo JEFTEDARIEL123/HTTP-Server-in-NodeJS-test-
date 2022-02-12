@@ -13,15 +13,14 @@ if (!fs.existsSync(process.env.FILES)){
     fs.mkdirSync(process.env.FILES, { recursive: true });
 }
 
-app.use(express.static('src'));
+app.use(express.static(process.env.FILES));
    
    console.log('Loading web files from /', process.env.FILES, "/")
 
 var server = app.listen(process.env.PORT, function () {
-
     var host = server.address().address
     var port = server.address().port
-
+    
     console.log(' ')
     console.log('#############################'.yellow)
     console.log('#                           #'.yellow)
